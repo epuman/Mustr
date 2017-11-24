@@ -129,3 +129,42 @@ test_error()
 
 success_msg("Good work!")
 ```
+
+
+---
+## <<<New Exercise>>>
+
+```yaml
+type: NormalExercise
+key: 523b760fd1
+lang: r
+xp: 100
+skills: 1
+```
+
+
+`@instructions`
+*tee midagi
+*ära tee midagi
+
+`@hint`
+EI ole vihjet
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+1+2
+```
+
+`@solution`
+```{r}
+1+2
+```
+
+`@sct`
+```{r}
+
+```
